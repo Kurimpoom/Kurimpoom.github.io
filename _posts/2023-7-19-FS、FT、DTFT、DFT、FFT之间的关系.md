@@ -4,7 +4,7 @@ title:   FS、FT、DTFT、DFT、FFT之间的关系
 subtitle:   
 date:       2023-7-19
 author:     kurimpoom
-header-img: img/the-first.png
+header-img: /img/the-first.png
 catalog:   true
 tags: 
     - 数字信号处理
