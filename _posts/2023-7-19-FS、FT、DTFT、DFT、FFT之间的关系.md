@@ -8,6 +8,7 @@ header-img: img/the-first.png
 catalog:   true
 tags: 
     - 数字信号处理
+emoji: 🦍
 ---
 
 ## DTFT
