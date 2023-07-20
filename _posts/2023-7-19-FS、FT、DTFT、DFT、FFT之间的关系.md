@@ -14,7 +14,7 @@ emoji: 🦍
 # 1.离散时间傅里叶变换DTFT
 首先顾名思义，它的名字叫离散时间傅里叶变换，中间有个时间只是重在强调该变换仅在时域上离散，而在频率上是连续的。我们知道，采样后信号的频谱是采样前信号的频谱在频域上以采样频率fs进行周期延拓而成的，而要想从中恢复出原来信号，就需要对采样频率fs和有用信号的上限频率fo有一定要求，具体需要满足奈奎斯特采样定理，即要求 **fs≥2fo** ，而DTFT是对已采样信号求频谱的一种方式，公式的推导可以由采样的信号进行傅里叶变换得出，具体可见下面推导。
 
-<img src="https://github.com/Kurimpoom/kurimpoom.github.io/blob/master/_posts/images/post-1.png?raw=true.jpg" 
+<img src="https://s1.ax1x.com/2023/07/20/pCHpWh6.png" 
 alt="图片找不到了"
 title="DTFT推导">
   
