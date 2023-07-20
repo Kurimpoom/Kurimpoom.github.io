@@ -16,6 +16,7 @@ emoji: 🦍
 <html>
 <img src="[https://www.example.com/images/dinosaur](https://github.com/Kurimpoom/kurimpoom.github.io/blob/master/_posts/images/post-1.png?raw=true).jpg">
 </html>
+
 ![图1.DTFE推导](https://github.com/Kurimpoom/kurimpoom.github.io/blob/master/_posts/images/post-1.png?raw=true)
 注意：对采样信号进行DTFT所得出的结果和我们进行频谱搬移得出的结果是一致的，只是从不同的角度得出的罢了，一个是从公式的角度计算出频谱，一个是以一个更为直观、更方便记忆的角度去分析的。  
 
