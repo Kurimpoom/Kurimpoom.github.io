@@ -16,9 +16,7 @@ emoji: 🦍
 
 <img src="https://github.com/Kurimpoom/kurimpoom.github.io/blob/master/_posts/images/post-1.png?raw=true.jpg" 
 alt="图片找不到了"
-title="DTFT推导"
-width="1349"
-height="460">
+title="DTFT推导">
   
   
 
