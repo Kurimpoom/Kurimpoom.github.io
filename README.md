@@ -1,7 +1,7 @@
 ### 新的开始
 ### blog开通！！！
 
-#### 1.在markdown中使用MathJax编写公式，却在HTML页面显示不了公式问题。
+## 1.在markdown中使用MathJax编写公式，却在HTML页面显示不了公式问题。
 
 (1).在`layouts`中`post.html`加入以下代码。
 ```
