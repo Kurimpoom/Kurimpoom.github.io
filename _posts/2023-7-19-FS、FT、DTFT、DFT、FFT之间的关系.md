@@ -20,7 +20,7 @@ DTFT正变换公式：
 $$\displaystyle X({e^{j\omega }}) = \sum_{n =-\infty }^\infty{x(n){e^{ - j\omega n}}} $$
 
 
-DTFT逆变换公式：$$\displaystyle x(n) =\frac{1}{{2\pi }}\int_{ - \pi }^{\pi}  {X({e^{j\omega }}){e^{j\omega n}}} d\omega $$
+DTFT逆变换公式：$$\displaystyle x(n) =\frac { 1 } {{ 2\pi }}\int_{ - \pi }^{\pi}  {X({e^{j\omega }}){e^{j\omega n}}} d\omega $$
 
 具体可见下面推导。
 
