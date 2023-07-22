@@ -16,6 +16,7 @@ emoji: 🦍
 
 DTFT正变换公式：
 **$$X({e^{j\omega }}) = \sum\limits_{n =  - \infty }^\infty  {x(n){e^{ - j\omega n}}} $$**
+
 DTFT逆变换公式：
 **$$x(n) = \frac{1}{{2\pi }}\int\limits_{ - \pi }^\pi  {X({e^{j\omega }}){e^{j\omega n}}} d\omega $$**
 
@@ -38,7 +39,7 @@ DTFT是具有周期性的，在数字角频率中，周期为2π，对应于模�
 
 - ## 2.1DTFT与DFT之间的关系
 
-此处公式省略，我是懒狗（其实是我不会打罢了qwq）
+DFT正变换公式**$$X(k) = \sum\limits_{n = 0}^{N - 1} {x(n)W_N^{kn}} $$**
 
 DFT变换是DTFT变换在【0，2π】区间上的N点等间隔采样，采样间隔为2π/N，[详细可看这里](https://www.cnblogs.com/BitArt/archive/2012/11/24/2786390.html)
 - ## 2.2Z变换与DTFT之间的关系
