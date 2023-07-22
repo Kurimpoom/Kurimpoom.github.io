@@ -14,10 +14,10 @@ emoji: 🦍
 # 1.离散时间傅里叶变换DTFT
 首先顾名思义，它的名字叫离散时间傅里叶变换，中间有个时间只是重在强调该变换仅在时域上离散，而在频率上是连续的。我们知道，采样后信号的频谱是采样前信号的频谱在频域上以采样频率f<SUB>s</SUB>进行周期延拓而成的，而要想从中恢复出原来信号，就需要对采样频率fs和有用信号的上限频率f<SUB>o</SUB>有一定要求，具体需要满足奈奎斯特采样定理，即要求 **f<SUB>s</SUB>≥2f<SUB>o</SUB>** ，而DTFT是对已采样信号求频谱的一种方式，公式的推导可以由采样的信号进行傅里叶变换得出。
 
-DTFT正变换公式：**$$X({e^{j\omega }}) = \sum_{n =-\infty }^\infty{x(n){e^{ - j\omega n}}} $$**
+DTFT正变换公式：**$$\displaystyle X({e^{j\omega }}) = \sum_{n =-\infty }^\infty{x(n){e^{ - j\omega n}}} $$**
 
 DTFT逆变换公式：
-**$$x(n) = \displaystyle\frac{1}{{2\pi }}\int_{ - \pi }^{\pi}  {X({e^{j\omega }}){e^{j\omega n}}} d\omega $$**
+**$$\displaystyle x(n) =\frac{1}{{2\pi }}\int_{ - \pi }^{\pi}  {X({e^{j\omega }}){e^{j\omega n}}} d\omega $$**
 
 具体可见下面推导。
 
