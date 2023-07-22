@@ -40,6 +40,7 @@ DTFT是具有周期性的，在数字角频率中，周期为2π，对应于模�
 
 DFT正变换公式：$$X(k) = \sum\limits_{n = 0}^{N - 1} {x(n)W_N^{kn}} $$&emsp;&emsp;&emsp;(0&nbsp;≤&nbsp;k&nbsp;≤&nbsp;N&nbsp;-&nbsp;1&nbsp;)
 
+
 其中$$W_N^{kn} = {e^{ - j\frac{{2\pi }}{N}\omega n}}$$
 
 
