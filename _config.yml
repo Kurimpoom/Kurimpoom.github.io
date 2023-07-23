@@ -12,7 +12,7 @@ github_repo: "https://github.com/Kurimpoom/kurimpoom.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"   #说点装逼的话
-sidebar-avatar: /img/about-HJ.jpg      # 你的个人头像
+sidebar-avatar: /img/images/sidebar-1.jpg      # 你的个人头像
 
 
 
