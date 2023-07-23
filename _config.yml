@@ -12,11 +12,11 @@ github_repo: "https://github.com/Kurimpoom/kurimpoom.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"   #说点装逼的话
-sidebar-avatar: /img/about-HJ.jpg      # 你的个人头像
+sidebar-avatar: /img/images/sidebar-1.jpg      # 你的个人头像
 
 
 
-# SNS settings
+# SNS settings          # 展示你的其他社交平台账户
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
@@ -86,7 +86,7 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
