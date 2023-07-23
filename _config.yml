@@ -1,18 +1,18 @@
 # Site settings
 title: 袁建昌
-SEOTitle: 芝士知识
+SEOTitle: 芝士知识                         #显示在浏览器上搜索的时候显示的标题
 header-img: img/1.jpg
 email: aj2443849@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+description: "关注永雏塔菲谢谢喵"
+keyword: "blog，博客，袁建昌的博客"          #关键词，不知道啥意思
 url: "https://kurimpoom.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Kurimpoom/kurimpoom.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Goals determine what you're going to be!"   #说点装逼的话
+sidebar-avatar: /img/about-HJ.jpg      # 你的个人头像
 
 
 
